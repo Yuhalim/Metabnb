@@ -9,6 +9,6 @@ var hide = document.querySelector('#hide');
 hide.addEventListener('click', function(){
     connect.style.display = 'none';
     overlay.style.display = 'none';
-
+    
 });
 
